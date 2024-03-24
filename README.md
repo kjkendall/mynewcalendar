@@ -18,7 +18,7 @@ This is a responsive calendar web app built using HTML, CSS, and JavaScript. It 
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
+- Kyra K. (https://github.com/kjkendall)
 
 ## License
 
